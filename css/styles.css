@@ -224,6 +224,20 @@ h2 {
     line-height: 1.5;
 }
 
+.project .project-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 20px;
+    margin-top: 12px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.project-links a {
+    color: #c96857;
+    text-underline-offset: 3px;
+}
+
 /* GitHub */
 
 .online {

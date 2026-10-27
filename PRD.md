@@ -19,9 +19,9 @@ Visit Vega's GitHub profile to explore her projects and contributions.
 
 ## What content you have, and what is missing
 
-**Available:** Vega's name and introduction, Babson College studies, about text, three interest areas, portrait (`vega.jpg`), GitHub callout, and closing message. The Projects section lists Mini Project 1, a tool to help Montessori teachers find lesson plans, and Truvit (2023–2027), with its logo, work photo, and description.
+**Available:** Vega's name and introduction, Babson College studies, about text, three interest areas, portrait (`vega.jpg`), GitHub callout, and closing message. The Projects section lists each project with a short intro and links to its live site and/or GitHub repository: RootMap (current focus), Peninsula Montessori Lessons (Mini Project 1), Lesson Prep Planner (Mini Project 2), Cookie Bytes by Julia (a collaboration with Julia Cook), and Truvit (2023–2027, with its own page, logo, work photo, and description).
 
-**Missing or needs confirmation:** A direct contact method; the intended GitHub profile URL (the current link points to a `.git` repository URL); the link and further information for Mini Project 1; and links and details for any other projects.
+**Missing or needs confirmation:** A direct contact method; the intended GitHub profile URL (the current link points to a `.git` repository URL); and whether to add RootMap Play to the Projects section.
 
 ## Two or three sites you like, and what you like about each
 
